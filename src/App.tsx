@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div>Prova</div>
+    <div>IBGE</div>
   );
 }
 
